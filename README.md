@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL error related to implicit type conversion. The `bug.sql` file contains a query that implicitly converts data types, leading to incorrect results. The `bugSolution.sql` file provides a corrected version of the query that explicitly handles data types.
